@@ -7,6 +7,7 @@ I'm currently a UoA students, major in data science. This is my first time using
 ## About meme 
 This meme was inspired by the fact that I have numerous assignments due on the same day. I have to work on the assignments during the weekends in order to submit all the assignments on time.
 
+![](my_meme.png)
 ## Tools that I use to make a meme:
  ### Tools Used
 1. The **R** programming language 
