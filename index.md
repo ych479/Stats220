@@ -4,8 +4,12 @@ Here, I will share my works from the University of Auckland's Stats220 course.
 
 ## About me
 I'm currently a UoA students, major in data science. This is my first time using the GitHub platform. 
+I love playing games, watching videos, travelling and animals!!!
+
+![my favorate](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShUK_8myMnm9ADp03l9FdIbsqTTw-PhEf1lw&usqp=CAU)
+
 ## About meme 
-This meme was inspired by the fact that I have numerous assignments due on the same day. I have to work on the assignments during the weekends in order to submit all the assignments on time.
+This meme was inspired by the fact that I have numerous assignments due on the same day. I have to work on the assignments during the weekends in order to submit all the assignments on time. I frequently utilise the dog image in my daily life, while the woman-yelling image frequently shows on my Instagram. I feel like the combination of these two images is what my senario when I doing my assignments on the weekends.
 
 ![](my_meme.png)
 ## Tools that I use to make a meme:
