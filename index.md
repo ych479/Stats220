@@ -1,6 +1,11 @@
 # Hello guys!
 Welcome to my GitHub. 
+
 Here, I will share my works from the University of Auckland's Stats220 course.
+
+This is a link for my [STATS220 repo](https://github.com/ych479/Stats220)
+
+
 
 ## About me
 I'm currently a UoA students, major in data science. This is my first time using the GitHub platform. 
