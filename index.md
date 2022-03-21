@@ -1,6 +1,6 @@
 # Hello guys!
 Welcome to my GitHub. 
-Here, I will display my meme.
+Here, I will share my works from the University of Auckland's Stats220 course.
 
 ## About me
 I'm currently a UoA students, major in data science. This is my first time using the GitHub platform. 
@@ -33,6 +33,4 @@ meme
 image_write(meme, "my_meme.png")
 ```
 
-## Image resources
-* "https://i.kym-cdn.com/photos/images/newsfeed/001/505/717/49b.jpg"
-* "http://www.youqu5.net/d/file/2018-12-27/a94c57566d3e02cf59640368ab39e58f.jpg"
+
