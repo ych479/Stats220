@@ -31,5 +31,8 @@ woman_text <- image_annotate(woman_flip, "ME: Qucik!!!!! \nAssignment is due ton
 meme <- c(cat_text, woman_text) %>% image_append()
 meme
 image_write(meme, "my_meme.png")
-
 ```
+
+## Image resources
+* "https://i.kym-cdn.com/photos/images/newsfeed/001/505/717/49b.jpg"
+* "http://www.youqu5.net/d/file/2018-12-27/a94c57566d3e02cf59640368ab39e58f.jpg"
