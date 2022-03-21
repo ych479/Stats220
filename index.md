@@ -18,7 +18,7 @@ This meme was inspired by the fact that I have numerous assignments due on the s
 
 ![](my_meme.png)
 ## Tools that I use to make a meme:
- ### Tools Used
+### Tools Used
 1. The **R** programming language 
 2. The *magick* R package ([magick package link](https://cran.r-project.org/web/packages/magick/vignettes/intro.html))
 
