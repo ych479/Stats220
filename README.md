@@ -6,4 +6,8 @@ This course is all about data technology, which contains:
 * data storage 
 * data processing
 We use **R**, **Rstudio** and **CSS** to build up our own *HTML* pages.
+
+
 Here is a web link for my [Stats220 repo](https://ych479.github.io/Stats220/)
+
+![](https://img1.picmix.com/output/pic/normal/1/9/7/7/7117791_033ed.gif)
